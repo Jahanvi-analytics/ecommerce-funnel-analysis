@@ -40,3 +40,4 @@ from product view to final purchase.
 - Q3 2024 peaked in total sessions
 
 ## Dashboard Screenshots
+(see inside screenshots folder)
